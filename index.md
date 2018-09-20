@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eralp Karaduman's CV
 ---
-# Isaac Newton
+# Eralp Karaduman
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
+| <a href="https://eralpkaraduman.com">My personal web page</a>
 </div>
 
 
