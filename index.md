@@ -3,86 +3,52 @@ layout: cv
 title: Eralp Karaduman's CV
 ---
 # Eralp Karaduman
-Physicist, Mathematician, Cambridge professor.
+Generalist Software developer, iOS, Full stack Frontend.
 
 <div id="webaddress">
-<a href="eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
-| <a href="https://eralpkaraduman.com">My personal web page</a>
+<a href="mailto://eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
+| <a href="https://eralpkaraduman.com">eralpkaraduman.com</a>
+| <a href="https://eralpkaraduman.github.io/cv">eralpkaraduman.github.io/cv</a>
+| <a href="https://github.com/eralpkaraduman">github.com/eralpkaraduman</a>
+| <a href="https://linkedin.com/in/eralpkaraduman">linkedin.com/in/eralpkaraduman</a>
+| <a href="https://twitter.com/eralpkaraduman">twitter.com/eralpkaraduman</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working in games industry on tech & internal tools
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Building digital products, native iOS development with Swift, web SPA apps with javascript / React.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2005-2013`
+__Kadir Has Universiy, Computer Science & Statistics Ba.__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2017 - now`
+__Seriously Digital Entertainment__, Helsinki
 
-- Warden
-- Minted coins
+- Worked as full stack web developer (react, redux, node.js).
+- Native plugin development for Unity3D.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2015 - January 2017`
+__DealDash__, Helsinki
 
+- Built iOS (Swift) & backend (Symfony) of Dropio: A retail app with real time multiplayer game mechanics.
+- Worked remotely.
 
+`September 2014 - October 2016`
+__CupsOn.Me__, Dublin
+
+- Co-founded & Developed (iOS - Obj-C) a mobile first discovery & purchasing platform for 3rd wave coffee enthusiasts.
 
 <!-- ### Footer
 
