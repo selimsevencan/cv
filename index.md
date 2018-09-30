@@ -6,7 +6,7 @@ title: Eralp Karaduman's CV
 Generalist Software developer, Specialized in Native iOS & Full Stack Web
 
 <div id="webaddress">
-<a href="mailto://eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
+<a href="mailto:eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
 | <a href="https://eralpkaraduman.com">eralpkaraduman.com</a>
 </div>
 
