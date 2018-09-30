@@ -51,5 +51,3 @@ __DealDash__, Helsinki
 __CupsOn.Me__, Dublin
 
 - Co-founded & Developed (iOS - Obj-C) a mobile first discovery & purchasing platform for 3rd wave coffee enthusiasts.
-
-<p>Last Modified At: {% last_modified_at %}</p>
