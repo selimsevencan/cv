@@ -7,7 +7,12 @@
   <link href="media/style.css" type="text/css" rel="stylesheet">
 </head>
 <body class="markdown-body">
-  {{ content }}
-  <p>Last Modified At: {{ page.last-modified-date }}</p>
+{{ content }}
+<p>
+  This CV was Generated on {{ site.time | date: "%B %-d %Y" }}<br> 
+  Source: <a href="{{site.github.repository_url}}">{{site.github.repository_url}}</a><br> 
+  Revision {{ site.github.build_revision }}
+</p>
+<p></p>
 </body>
 </html>
