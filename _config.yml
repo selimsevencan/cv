@@ -1,2 +1,3 @@
-markdown:   kramdown
-style:  kjhealy
+markdown: kramdown
+plugins:
+  - jekyll-last-modified-at

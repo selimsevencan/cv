@@ -3,16 +3,18 @@ layout: cv
 title: Eralp Karaduman's CV
 ---
 # Eralp Karaduman
-Generalist Software developer, iOS, Full stack Frontend.
+Generalist Software developer, Specialized in Native iOS & Full Stack Web
 
 <div id="webaddress">
 <a href="mailto://eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
 | <a href="https://eralpkaraduman.com">eralpkaraduman.com</a>
-| <a href="https://eralpkaraduman.github.io/cv">eralpkaraduman.github.io/cv</a>
+</div>
+
+
+<!-- | <a href="https://eralpkaraduman.github.io/cv">eralpkaraduman.github.io/cv</a>
 | <a href="https://github.com/eralpkaraduman">github.com/eralpkaraduman</a>
 | <a href="https://linkedin.com/in/eralpkaraduman">linkedin.com/in/eralpkaraduman</a>
-| <a href="https://twitter.com/eralpkaraduman">twitter.com/eralpkaraduman</a>
-</div>
+| <a href="https://twitter.com/eralpkaraduman">twitter.com/eralpkaraduman</a> -->
 
 
 ## Currently
@@ -50,8 +52,4 @@ __CupsOn.Me__, Dublin
 
 - Co-founded & Developed (iOS - Obj-C) a mobile first discovery & purchasing platform for 3rd wave coffee enthusiasts.
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<p>Last Modified At: {% last_modified_at %}</p>
