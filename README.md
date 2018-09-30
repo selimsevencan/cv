@@ -2,6 +2,8 @@
 
 ## [eralpkaraduman.github.io/cv](https://eralpkaraduman.github.io/cv)
 
+[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
+
 This is a fairly modified version of
 [elipapa's markdown-cv](http://elipapa.github.io/markdown-cv) project.  
 Which is using [jekyll](https://jekyllrb.com) to host the cv as static site on github.
