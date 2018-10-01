@@ -12,6 +12,13 @@ My version simply uses
 [sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css) the close
 replica of github's markdown style. 
 
+
+**Automatic PDF version generation**
+Also if you set up Travis CI, i configured it up so after every commit, travis will print it to `cv.pdf` then create a release on github. You can always link to the latest release by adding the sufffix `/releases/latest` to repo url.
+[/releases/latest](https://github.com/eralpkaraduman/cv/releases/latest)
+[/releases/latest](releases/latest)
+
+
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
 ## Running jekyll locally
