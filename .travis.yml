@@ -24,3 +24,12 @@ install:
 before_install:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
+
+deploy:
+  provider: releases
+  api_key: "$GITHUB_OAUTH_TOKEN"
+  file: "./_site/cv.pdf"
+  skip_cleanup: true
+  on:
+    tags: true
+
