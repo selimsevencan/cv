@@ -31,5 +31,4 @@ deploy:
   file: "./_site/cv.pdf"
   skip_cleanup: true
   on:
-    tags: true
-    all_branches: true
+    branch: gh-pages
