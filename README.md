@@ -20,4 +20,5 @@ You should look at [jekyll's own documentation](https://jekyllrb.com/docs) but,
 this is how you'd get started;  
 
 `bundle install`  
-`bundle exec jekyll serve`  
+`bundle exec jekyll serve --host=0.0.0.0`
+

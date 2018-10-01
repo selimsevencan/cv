@@ -1,25 +1,17 @@
 ---
 layout: cv
 title: Eralp Karaduman's CV
+pdf: true
 ---
 # Eralp Karaduman
 Generalist Software developer, Specialized in Native iOS & Full Stack Web
 
-<div id="webaddress">
-<a href="mailto:eralp@eralpkaraduman.com">eralp@eralpkaraduman.com</a>
-| <a href="https://eralpkaraduman.com">eralpkaraduman.com</a>
-</div>
-
-
-<!-- | <a href="https://eralpkaraduman.github.io/cv">eralpkaraduman.github.io/cv</a>
-| <a href="https://github.com/eralpkaraduman">github.com/eralpkaraduman</a>
-| <a href="https://linkedin.com/in/eralpkaraduman">linkedin.com/in/eralpkaraduman</a>
-| <a href="https://twitter.com/eralpkaraduman">twitter.com/eralpkaraduman</a> -->
+[eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com) | [eralpkaraduman.com](https://eralpkaraduman.com)
 
 
 ## Currently
 
-Working in games industry on tech & internal tools
+Based in Helsinki, Finland. Working in games industry on tech & internal tools.
 
 
 ### Specialized in
