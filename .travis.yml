@@ -16,6 +16,7 @@ addons:
       - pov-wkhtmltopdf
 
 install:
+  - "bundle install"
   - "gem install pdfkit"
     
 before_install:
