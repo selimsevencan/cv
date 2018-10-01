@@ -3,8 +3,9 @@
 **[eralpkaraduman.github.io/cv](https://eralpkaraduman.github.io/cv)**  
 **[auto-generated PDF version](https://eralpkaraduman.github.io/cv/releases/latest)**
 
-
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
+
+**If you want to have your own, just fork this repo and modify the `index.md`.**
 
 This is a fairly modified version of
 [elipapa's markdown-cv](http://elipapa.github.io/markdown-cv) project.  
@@ -28,8 +29,6 @@ To enable this;
 - Enter the token as Environment Variable with the key `GITHUB_OAUTH_TOKEN`
 - If everything was right, it will create a release under `/releases` page of your github repo
 - Latest release is conveniently always at `/releases/latest`
-
-**If you want to have your own, just fork this repo and modify the `index.md`.**
 
 ## Running jekyll locally
 
