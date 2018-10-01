@@ -15,7 +15,7 @@ My version simply uses
 replica of github's markdown style. 
 
 
-**Automatic PDF version generation**
+## Automatic PDF version generation
 
 Also if you set up Travis CI, i configured it up so after every commit, travis will print it to `cv.pdf` then create a release on github. You can always link to the latest release by adding the sufffix `/releases/latest` to repo url.  
 For example;  
@@ -31,7 +31,8 @@ To enable this;
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
-**Running jekyll locally**
+## Running jekyll locally
+
 (You don't need to run it locally to update this, do it on github's web ui)  
 You should look at [jekyll's own documentation](https://jekyllrb.com/docs) but,
 this is how you'd get started;  
