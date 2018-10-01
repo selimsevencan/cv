@@ -21,6 +21,13 @@ Also if you set up Travis CI, i configured it up so after every commit, travis w
 For example;  
 github.com/your-username-here/cv[/releases/latest](https://github.com/eralpkaraduman/cv/releases/latest)
 
+To enable this;  
+- Go to [github.com/settings/tokens](https://github.com/settings/tokens)
+- Generate a personal access token, give it `public_repo` permission
+- Go toto travis-ci.org settings page of you repo
+- Enter the token as Environment Variable with the key `GITHUB_OAUTH_TOKEN`
+- If everything was right, it will create a release under `/releases` page of your github repo
+- Latest release is conveniently always at `/releases/latest`
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
