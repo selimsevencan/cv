@@ -1,7 +1,7 @@
 # Source of Eralp Karaduman's CV
 
 **[eralpkaraduman.github.io/cv](https://eralpkaraduman.github.io/cv)**  
-**[auto-generated PDF version](https://eralpkaraduman.github.io/cv/releases/latest)**
+**[auto-generated PDF version](https://github.com/eralpkaraduman/cv/releases/latest)**
 
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
