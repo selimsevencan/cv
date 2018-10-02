@@ -2,8 +2,7 @@ require 'pdfkit'
 
 PDFKit.configure do |config|
 	config.default_options = {
-		:debug_javascript => true,
-		:javascript_delay => "3000"
+		:disable_javascript
 	}
 	config.verbose = true
 end
