@@ -30,6 +30,14 @@ To enable this;
 - If everything was right, it will create a release under `/releases` page of your github repo
 - Latest release is conveniently always at `/releases/latest`
 
+## Including downlad link to PDF version in the website
+
+I added a feature which automatically adds the latest PDF version download link to the website.   
+This only works when automatic PDF version generation was set up (mentioned above).   
+This is done by javascript running on the page, it tries to fetch github's API to get the last release.  
+If generation was not configured this may cause some errors on the console (not affecting the result).  
+You may choose to disable it by removing all the javascript in the template file `_layouts/cv.html`.  
+
 ## Running jekyll locally
 
 (You don't need to run it locally to update this, do it on github's web ui)  
