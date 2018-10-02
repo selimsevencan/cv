@@ -7,26 +7,26 @@
   <link href="media/style.css" type="text/css" rel="stylesheet">
   <script>
 	// Attempts to fetch the latest pdf url, then injects the download link to bottom of the page.
-	/*
 	var req = new XMLHttpRequest();
 	req.onreadystatechange = function() {
 		if (req.readyState == XMLHttpRequest.DONE) {
 			if (req.status == 200) {
 				try {
 					var responseJSON = JSON.parse(req.responseText);
-					var latestReleaseUrl = responseJSON.assets[0].browser_download_url;
-
-
-				 	var directLinkTextNode = document.createTextNode("PDF Version: ");
-					var directLinkElement = document.createElement("a");
-					directLinkElement.text = "Click here to download"
-					directLinkElement.href = latestReleaseUrl;
-					var directLinkContainerElement = document.createElement("div");
-					directLinkContainerElement.appendChild(directLinkTextNode);
-					directLinkContainerElement.appendChild(directLinkElement);
+					if (responseJSON.assets && responseJSON.assets.length > 0) {
+						var latestReleaseUrl = responseJSON.assets[0].browser_download_url;
 					
-					var elementToReplace = document.getElementById("footer");
-					elementToReplace.appendChild(directLinkContainerElement);
+					 	var directLinkTextNode = document.createTextNode("PDF Version: ");
+						var directLinkElement = document.createElement("a");
+						directLinkElement.text = "Click here to download"
+						directLinkElement.href = latestReleaseUrl;
+						var directLinkContainerElement = document.createElement("div");
+						directLinkContainerElement.appendChild(directLinkTextNode);
+						directLinkContainerElement.appendChild(directLinkElement);
+					
+						var elementToReplace = document.getElementById("footer");
+						elementToReplace.appendChild(directLinkContainerElement);
+					}
 				}
 				catch(e) { }
 			 }
@@ -34,7 +34,6 @@
 	};
 	req.open("GET", "https://api.github.com/repos/{{site.github.repository_nwo}}/releases/latest", true);
 	req.send();
-	*/
   </script>
 </head>
 <body class="markdown-body">
