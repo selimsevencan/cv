@@ -40,7 +40,10 @@ You may choose to disable it by removing all the javascript in the template file
 
 ## Running jekyll locally
 
-(You don't need to run it locally to update this, do it on github's web ui)  
+*(You don't need to run it locally to update this, do it on github's web ui)*    
+
+Since after your every change a new cv will be generated, this may cause excessive number of generations. To avoid this you may choose to make several commits on your local environment. Then push them all at once. To be able to preview the CV you should run Jekyll locally.
+
 You should look at [jekyll's own documentation](https://jekyllrb.com/docs) but,
 this is how you'd get started;  
 
