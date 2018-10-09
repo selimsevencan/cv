@@ -85,5 +85,5 @@ _Senior Flash Developer & Team Leader_
 
 - Built websites and  advergames (Flash), 
 - Rich media campaigns combining electronics & software.
-- Early AR & VR applications with on Flash's c++ runtime.
+- Early AR applications with Flash's c++ runtime.
 - Worked as team leader of  of 6 (2012)
