@@ -1,12 +1,15 @@
 ---
 layout: cv
 title: Eralp Karaduman's CV
-pdf: true
 ---
-# Eralp Karaduman
-Generalist Software developer, Specialized in Native iOS & Full Stack Web
 
-[eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com) | [eralpkaraduman.com](https://eralpkaraduman.com)
+# Eralp Karaduman
+Generalist Software Developer
+
+| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
+| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
+| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
+| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
 
 
 ## Currently
@@ -16,30 +19,71 @@ Based in Helsinki, Finland. Working in games industry on tech & internal tools.
 
 ### Specialized in
 
-Building digital products, native iOS development with Swift, web SPA apps with javascript / React.
+- Building digital products.
+- Native iOS development with Swift
+- Web SPA apps with javascript / React.
+- Building server applications with node.js on major cloud platforms.
 
 
 ## Education
 
 `2005-2013`
-__Kadir Has Universiy, Computer Science & Statistics Ba.__
+__Kadir Has University, Computer Science & Statistics Ba.__
 
 
 ## Occupation
 
-`January 2017 - now`
-__Seriously Digital Entertainment__, Helsinki
+`Jan 2017 - now`
+__Seriously Digital Entertainment__, Helsinki  
+_Technology Programmer_
 
-- Worked as full stack web developer (react, redux, node.js).
-- Native plugin development for Unity3D.
+- Working on web technology based internal tools (react, redux, node.js, typescript, docker).
+- Native plugin development for Unity3D (iOS/Obj-C & Android/Java).
 
-`September 2015 - January 2017`
-__DealDash__, Helsinki
 
-- Built iOS (Swift) & backend (Symfony) of Dropio: A retail app with real time multiplayer game mechanics.
-- Worked remotely.
+`Sep 2015 - Jan 2017`
+__DealDash__, Helsinki  
+_iOS Developer_
 
-`September 2014 - October 2016`
-__CupsOn.Me__, Dublin
+- Built iOS App Dropio (Swift): A retail app with real time multiplayer game mechanics.
+- Also worked on backend (PhP7 / Symfony).
+- Participated in product development. 
 
-- Co-founded & Developed (iOS - Obj-C) a mobile first discovery & purchasing platform for 3rd wave coffee enthusiasts.
+
+`Sep 2014 - Oct 2016`
+__CupsOn.Me__, Dublin  
+_Co-Founder & iOS Developer_
+
+- Co-founded & Developed (iOS - Obj-C) a mobile first discovery &
+purchasing platform for 3rd wave coffee enthusiasts.
+
+
+`Apr 2015 - Aug 2015`
+__Hipo__, Istanbul  
+_iOS Developer_
+
+- Worked on a iOS (Obj-C) social network app for collectors named "Fielguide", 
+which included technically challenging user interfaces.
+([App Store Link](https://itunes.apple.com/us/app/fieldguide-for-everything/id879829383?mt=8))
+
+
+`November 2012 - Apr 2015` 
+__Adphorus / Publik__, Istanbul  
+_Mobile (iOS & Android) Software Developer_
+
+- Worked on Adphorus, SaaS platform for facebook ads management.
+- Built native iOS (Objc-C) & Android (Java) clients for Adphorus.
+- Worked on Cevap.Tv, video how-to website. 
+- Built video playback components with google video ads integration (flash, as3, IMA SDK)
+- Built iPad / iPhone app clients (Obj-C)
+- Designed streaming video infrastracture (based on Wowza & AWS)
+- Built a video transcoding system (FFMpeg, node.js, AWS) & streaming-transcoding backend (node.js)
+
+
+`Sep 2008 - Nov 2012` __MagiClick__, Istanbul  
+_Senior Flash Developer & Team Leader_
+
+- Built websites and  advergames (Flash), 
+- Rich media campaigns combining electronics & software.
+- Early AR & VR applications with on Flash's c++ runtime.
+- Worked as team leader of  of 6 (2012)
