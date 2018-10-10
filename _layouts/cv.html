@@ -5,6 +5,7 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="media/style.css" type="text/css" rel="stylesheet">
+  {% if site.shouldInjectCvDownloadLink == "YES" %}
   <script>
 	// Attempts to fetch the latest pdf url, then injects the download link to bottom of the page.
 	var req = new XMLHttpRequest();
@@ -21,7 +22,7 @@
 						directLinkElement.text = "Click here to download"
 						directLinkElement.href = latestReleaseUrl;
 						var directLinkContainerElement = document.createElement("div");
-						directLinkContainerElement.appendChild(directLinkTextNode);
+						directLinkCoRtainerElement.appendChild(directLinkTextNode);
 						directLinkContainerElement.appendChild(directLinkElement);
 					
 						var elementToReplace = document.getElementById("footer");
@@ -35,6 +36,7 @@
 	req.open("GET", "https://api.github.com/repos/{{site.github.repository_nwo}}/releases/latest", true);
 	req.send();
   </script>
+  {% endif %}
 </head>
 <body class="markdown-body">
 {{ content }}
@@ -46,6 +48,8 @@
   </a><br>
   Source: <a href="{{site.github.repository_url}}">{{site.github.repository_url}}</a><br> 
   Revision: {{ site.github.build_revision }}
+  <br>Yarax: {{ site.shouldInjectCvDownloadLink }}
+  <br>Sidix: {{ jekyll.environment }}
 </p>
 <p></p>
 </body>

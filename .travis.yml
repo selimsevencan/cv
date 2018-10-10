@@ -4,6 +4,9 @@ language: ruby
 rvm:
 - 2.5.1
 
+env:
+  - INJECT_CV_DOWNLOAD_LINK=NO
+
 script: 
   - "bundle exec jekyll build"
   - "ruby make_pdf.rb"
