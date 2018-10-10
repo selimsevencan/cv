@@ -1,8 +1,6 @@
 [eralpkaraduman.github.io/cv]: https://eralpkaraduman.github.io/cv
 [latest release]: https://github.com/eralpkaraduman/cv/releases/latest
 
-[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
-
 # Source of Eralp Karaduman's CV
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
@@ -18,6 +16,8 @@ Which is using [jekyll](https://jekyllrb.com) to host the cv as static site on g
 My version simply uses
 [sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css), the close
 replica of github's markdown style. And it is able to aut-generate a PDF version release through travis-ci (if set up)
+
+[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
 ## Features
 - Maintain your cv using Markdown
