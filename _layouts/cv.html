@@ -5,7 +5,7 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="media/style.css" type="text/css" rel="stylesheet">
-  {% if site.shouldInjectCvDownloadLink == "YES" %}
+  {% if site.shouldInjectCvDownloadLink != "NO" %}
   <script>
 	// Attempts to fetch the latest pdf url, then injects the download link to bottom of the page.
 	var req = new XMLHttpRequest();
