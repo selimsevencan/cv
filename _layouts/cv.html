@@ -17,7 +17,7 @@
 					if (responseJSON.assets && responseJSON.assets.length > 0) {
 						var latestReleaseUrl = responseJSON.assets[0].browser_download_url;
 					
-					 	var directLinkTextNode = document.createTextNode("PDF Version: ");
+					 	var directLinkTextNode = document.createTextNode("Latest PDF Version: ");
 						var directLinkElement = document.createElement("a");
 						directLinkElement.text = "Click here to download"
 						directLinkElement.href = latestReleaseUrl;
@@ -50,9 +50,9 @@
 {{ content }}
 <p id="footer">
   This CV was Generated on {{ site.time | date: "%B %-d %Y" }}<br>
-  Latest Release: 
-  <a id="latest-version" href="{{site.github.repository_url}}/releases/latest">
-    {{site.github.repository_url}}/releases/latest 
+  Latest Version: 
+  <a href="https://{{site.github.owner_name}}.github.io/{{site.github.project_title}}">
+	{{site.github.owner_name}}.github.io/{{site.github.project_title}}
   </a><br>
   Source: <a href="{{site.github.repository_url}}">{{site.github.repository_url}}</a><br> 
   Revision: {{ site.github.build_revision }}
