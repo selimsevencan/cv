@@ -1,20 +1,30 @@
-# Source of Eralp Karaduman's CV
-
-**[eralpkaraduman.github.io/cv](https://eralpkaraduman.github.io/cv)**  
-**[auto-generated PDF version](https://github.com/eralpkaraduman/cv/releases/latest)**
+[eralpkaraduman.github.io/cv]: https://eralpkaraduman.github.io/cv
+[latest release]: https://github.com/eralpkaraduman/cv/releases/latest
 
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
+# Source of Eralp Karaduman's CV
+
 **If you want to have your own, just fork this repo and modify the `index.md`.**
+
+| Website                       | PDF Version      |
+|----------------------------   |------------------|
+| [eralpkaraduman.github.io/cv] | [latest release] |
 
 This is a fairly modified version of
 [elipapa's markdown-cv](http://elipapa.github.io/markdown-cv) project.  
 Which is using [jekyll](https://jekyllrb.com) to host the cv as static site on github.
 
 My version simply uses
-[sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css) the close
-replica of github's markdown style. 
+[sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css), the close
+replica of github's markdown style. And it is able to aut-generate a PDF version release through travis-ci (if set up)
 
+## Features
+- Maintain your cv using Markdown
+- Free website for your CV _(hosted on github-pages)_
+- Automaticaly updated PDF version _(hosted on github releases)_
+- Always have one link to your latest CV online for free
+- Update it easily on the web _(using github's web editor)_
 
 ## Automatic PDF version generation
 
