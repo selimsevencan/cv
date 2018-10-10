@@ -3,11 +3,13 @@
 
 # Source of Eralp Karaduman's CV
 
-**If you want to have your own, just fork this repo and modify the `index.md`.**
-
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
 | [eralpkaraduman.github.io/cv] | [latest release] |
+
+[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
+
+**If you want to have your own, just fork this repo and modify the `index.md`.**
 
 This is a fairly modified version of
 [elipapa's markdown-cv](http://elipapa.github.io/markdown-cv) project.  
@@ -17,7 +19,6 @@ My version simply uses
 [sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css), the close
 replica of github's markdown style. And it is able to aut-generate a PDF version release through travis-ci (if set up)
 
-[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
 ## Features
 - Maintain your cv using Markdown
@@ -25,6 +26,7 @@ replica of github's markdown style. And it is able to aut-generate a PDF version
 - Automaticaly updated PDF version _(hosted on github releases)_
 - Always have one link to your latest CV online for free
 - Update it easily on the web _(using github's web editor)_
+
 
 ## Automatic PDF version generation
 
@@ -39,6 +41,7 @@ To enable this;
 - Enter the token as Environment Variable with the key `GITHUB_OAUTH_TOKEN`
 - If everything was right, it will create a release under `/releases` page of your github repo
 - Latest release is conveniently always at `/releases/latest`
+
 
 ## Including downlad link to PDF version in the website
 
@@ -63,4 +66,3 @@ this is how you'd get started;
 
 `bundle install`  
 `bundle exec jekyll serve --host=0.0.0.0`
-
