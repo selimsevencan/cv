@@ -32,5 +32,6 @@ deploy:
   api_key: $GITHUB_OAUTH_TOKEN
   file: "./_site/cv.pdf"
   skip_cleanup: true
+  name: Build $(date +'%d.%m.%Y %R')
   on:
     branch: gh-pages
