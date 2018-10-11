@@ -17,7 +17,7 @@ Which is using [jekyll](https://jekyllrb.com) to host the cv as static site on g
 
 My version simply uses
 [sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css), the close
-replica of github's markdown style. And it is able to aut-generate a PDF version release through travis-ci (if set up)
+replica of github's markdown style. And it is able to auto-generate a PDF version release through travis-ci (if set up)
 
 
 ## Features
