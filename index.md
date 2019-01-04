@@ -11,6 +11,15 @@ Generalist Software Developer
 | __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
 | __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
 
+## TLDR;
+
+- 11+ years in software dev
+- Now working in games industry on internal tools and infrastructure.
+- Mainly developed native iOS apps for about 6 years (swift, objc)
+- Also made Android apps and Backends on the side
+- Tried my own startup for a brief time
+- Recently became a full stack web developer for 2+ years (react, nodejs)
+- Before all i was a Flash developer when it used to be cool.
 
 ## Currently
 
