@@ -20,6 +20,7 @@ Generalist Software Developer
 - Tried my own startup for a brief time
 - Recently became a full stack web developer for 2+ years (react, nodejs)
 - Before all i was a Flash developer when it used to be cool.
+- See below for code examples, open source personal projects.
 
 ## Currently
 
@@ -96,3 +97,26 @@ _Senior Flash Developer & Team Leader_
 - Rich media campaigns combining electronics & software.
 - Early AR applications with Flash's c++ runtime.
 - Worked as team leader of  of 6 (2012)
+
+## Projects & Code Examples
+
+- `React Native, iOS, JavaScript` : [github.com/eralpkaraduman/qvik-coding-assignment-react-native](https://github.com/eralpkaraduman/qvik-coding-assignment-react-native)
+
+- `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
+
+- `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
+
+- `TypeScript, NodeJS` : [github.com/eralpkaraduman/unity-frontend-developer-assignment](https://github.com/eralpkaraduman/unity-frontend-developer-assignment)
+
+- `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
+
+- `React Native, Objective C` : [github.com/speechgrinder/react-native-sfspeechrecognizer](https://github.com/speechgrinder/react-native-sfspeechrecognizer)
+
+- `JavaScript, iOS, Cordova`
+  - Source: [github.com/eralpkaraduman/text-wallpaper-generator](https://github.com/eralpkaraduman/text-wallpaper-generator)
+  - Web: [https://textwallpaper.online](textwallpaper.online)
+  - App Store: [itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8](https://itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8)
+
+- `Jekyll, gh-pages, Ruby, Travis CI` : [https://github.com/eralpkaraduman/cv](https://github.com/eralpkaraduman/cv)
+
+- `Unity3D, C#, Objective C` : [github.com/eralpkaraduman/LennyTTSUnity](https://github.com/eralpkaraduman/LennyTTSUnity)
