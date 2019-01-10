@@ -711,6 +711,14 @@ Custom styles
   padding: 45px;
 }
 
+.footer {
+  border-top-color: rgb(234, 236, 239);
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin-top: 40px;
+  padding-top: 10px;
+}
+
 @media (max-width: 767px) {
   .markdown-body {
     padding: 15px;
