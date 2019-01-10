@@ -31,7 +31,7 @@ Based in Helsinki, Finland. Working in games industry on tech & internal tools.
 
 - Building digital products.
 - Native iOS development with Swift
-- Web SPA apps with javascript / React.
+- Web SPA's with javascript / React.
 - Building server applications with node.js on major cloud platforms.
 
 
