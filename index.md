@@ -14,6 +14,18 @@ Front-end Developer
 ## TLDR;
 
 - 9+ years in software dev
+- React Enthusiast
+- Open Source Contributor
+- Experienced as a Team Lead
+- Evangelist of Design Standarts
+- 
+
+- Really happy about 
+- Loves startups which have a passionate team
+- Knows Facebook Marketing
+- Involved into leading team
+- Into UI design, I studied design and always keeping up-to-date my design skills.
+- Into backend a bit, I worked with PHP, Python and nodejs a lot.
 
 ## Currently
 
@@ -22,9 +34,11 @@ Based in Berlin, Germany. Working in marketing industry on building web based ap
 
 ### Specialized in
 
-- React ecosystem.
+- React/Redux ecosystem
+- Building scalable single page applications from stratch
+- 
+- Taking strategic decisions about front-end specifications.
 - Building component library in design system projects.
-- Writing front-end specifications.
 
 
 ## Education
@@ -93,3 +107,8 @@ _Front-end Developer_
 - Implemented client-specialized design on table-based html template.
 - Developed login and cart components with jQuery AJAX on top of bad-structured html.
 - Developed a facebook application which provides our clients to show their products on their facebook page.
+
+## Links
+
+My old design portfolio
+https://www.slideshare.net/KeremSevencan/portfolio-61062213
