@@ -1,122 +1,95 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Kerem Sevencan's CV
 ---
 
-# Eralp Karaduman
-Generalist Software Developer
+# Kerem Sevencan
+Front-end Developer
 
-| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
-| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
-| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
-| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
+| __E-Mail__   | [info@kerem.ws](mailto:info@kerem.ws)                                    | 
+| __Website__  | [kerem.ws](https://kerem.ws)                                             |
+| __LinkedIn__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
+| __Twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
 
 ## TLDR;
 
-- 11+ years in software dev
-- Now working in games industry on internal tools and infrastructure.
-- Mainly developed native iOS apps for about 6 years (swift, objc)
-- Also made Android apps and Backends on the side
-- Tried my own startup for a brief time
-- Recently became a full stack web developer for 2+ years (react, nodejs)
-- Before all i was a Flash developer when it used to be cool.
-- See below for code examples, open source personal projects.
+- 9+ years in software dev
 
 ## Currently
 
-Based in Helsinki, Finland. Working in games industry on tech & internal tools.
+Based in Berlin, Germany. Working in marketing industry on building web based applications.
 
 
 ### Specialized in
 
-- Building digital products.
-- Native iOS development with Swift
-- Web SPA's with javascript / React.
-- Building server applications with node.js on major cloud platforms.
+- React ecosystem.
+- Building component library in design system projects.
+- Writing front-end specifications.
 
 
 ## Education
 
-`2005-2013`
-__Kadir Has University, Computer Science & Statistics Ba.__
+`2011-2016`
+__Maltepe University, Visual Communication Design__
+
+`2013-2015`
+__Cardiff MET University, Graphic Communication__
 
 
 ## Occupation
 
 `Jan 2017 - now`
-__Seriously Digital Entertainment__, Helsinki  
-_Technology Programmer_
+__Adphorus__, Berlin
+_Lead Front-end Developer_
 
-- Working on web technology based internal tools (react, redux, node.js, typescript, docker).
-- Native plugin development for Unity3D (iOS/Obj-C & Android/Java).
+- Helped team to improve their knowledge and solve their daily bases problems. 
+- Made internal presentations and wrote front-end dev specifications to scale the app. 
+- Worked closely with back-end and product team to build new and update existing features. 
+- Improve reusable component library, started style-guide project to build visual language. 
+
+🌟 Adphorus has been acquired by Sojern at December 2016.
 
 
-`Sep 2015 - Jan 2017`
-__DealDash__, Helsinki  
-_iOS Developer_
+`May 2016 - Dec 2016`
+__PointrLabs__, London
+_Lead Front-end Developer_
 
-- Built iOS App Dropio (Swift): A retail app with real time multiplayer game mechanics.
-- Also worked on backend (PhP7 / Symfony).
-- Participated in product development. 
+- Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between front-end, iOS and android teams.
+- Built SPA which connects my middleware GraphQL server, inspired by kriasoft/react-starter-kit.
+- Made internal presentations about GraphQL and Redux.
+- Built responsive website with completely new UI and functionality.
+- Built a mini Application Manager for clients to access their apps with passwords with GulpJS.
 
 
 `Sep 2014 - Oct 2016`
-__CupsOn.Me__, Dublin  
-_Co-Founder & iOS Developer_
+__Asseco South Eastern Europe__, London
+_Front-end Developer & Designer_
 
-- Co-founded & Developed (iOS - Obj-C) a mobile first discovery &
-purchasing platform for 3rd wave coffee enthusiasts.
-
-
-`Apr 2015 - Aug 2015`
-__Hipo__, Istanbul  
-_iOS Developer_
-
-- Worked on a iOS (Obj-C) social network app for collectors named "Fielguide", 
-which included technically challenging user interfaces.
-([App Store Link](https://itunes.apple.com/us/app/fieldguide-for-everything/id879829383?mt=8))
+- Built iPad and mobile applications with Angular1/React and Cordova.
+- Helped product team for analyze, wireframe and design phases.
+- Made interfaces with GulpJS for internal tools.
+- Acted as a technical-lead in the team, joined many client meetings.
 
 
-`November 2012 - Apr 2015` 
-__Adphorus / Publik__, Istanbul  
-_Mobile (iOS & Android) Software Developer_
+`Apr 2014 - Oct 2014`
+__Online People__, London
+_Front-end Developer & Designer_
 
-- Worked on Adphorus, SaaS platform for facebook ads management.
-- Built native iOS (Objc-C) & Android (Java) clients for Adphorus.
-- Worked on Cevap.Tv, video how-to website. 
-- Built video playback components with google video ads integration (flash, as3, IMA SDK)
-- Built iPad / iPhone app clients (Obj-C)
-- Designed streaming video infrastracture (based on Wowza & AWS)
-- Built a video transcoding system (FFMpeg, node.js, AWS) & streaming-transcoding backend (node.js)
+- Built a hybrid web application from the ground up; transitioning it 
+from a facebook app into to cross-device app.
+- Designed all assets of the application and company.
+
+`Oct 2010 - Dec 2012` 
+__YCEO__, Istanbul  
+_Front-end Developer_
+
+- Implemented client-specialized design on top of our theme system on Django View Layer.
+- Developer jQuery components like slider, cart and check-out components.
 
 
-`Sep 2008 - Nov 2012` __MagiClick__, Istanbul  
-_Senior Flash Developer & Team Leader_
+`Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul  
+_Front-end Developer_
 
-- Built websites and  advergames (Flash), 
-- Rich media campaigns combining electronics & software.
-- Early AR applications with Flash's c++ runtime.
-- Worked as team leader of  of 6 (2012)
-
-## Projects & Code Examples
-
-- `React Native, iOS, JavaScript` : [github.com/eralpkaraduman/qvik-coding-assignment-react-native](https://github.com/eralpkaraduman/qvik-coding-assignment-react-native)
-
-- `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
-
-- `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
-
-- `TypeScript, NodeJS` : [github.com/eralpkaraduman/unity-frontend-developer-assignment](https://github.com/eralpkaraduman/unity-frontend-developer-assignment)
-
-- `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
-
-- `React Native, Objective C` : [github.com/speechgrinder/react-native-sfspeechrecognizer](https://github.com/speechgrinder/react-native-sfspeechrecognizer)
-
-- `JavaScript, iOS, Cordova`
-  - Source: [github.com/eralpkaraduman/text-wallpaper-generator](https://github.com/eralpkaraduman/text-wallpaper-generator)
-  - Web: [https://textwallpaper.online](textwallpaper.online)
-  - App Store: [itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8](https://itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8)
-
-- `Jekyll, gh-pages, Ruby, Travis CI` : [https://github.com/eralpkaraduman/cv](https://github.com/eralpkaraduman/cv)
-
-- `Unity3D, C#, Objective C` : [github.com/eralpkaraduman/LennyTTSUnity](https://github.com/eralpkaraduman/LennyTTSUnity)
+- Implemented client-specialized design on table-based html template.
+- Developed login and cart components with jQuery AJAX on top of bad-structured html.
+- Developed a facebook application which provides our clients to show their products on their facebook page.
