@@ -1,13 +1,13 @@
-[eralpkaraduman.github.io/cv]: https://eralpkaraduman.github.io/cv
-[latest release]: https://github.com/eralpkaraduman/cv/releases/latest
+[keremciu.github.io/cv]: https://keremciu.github.io/cv
+[latest release]: https://github.com/keremciu/cv/releases/latest
 
-# Source of Eralp Karaduman's CV
+# Source of Kerem Sevencan's CV
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
-| [eralpkaraduman.github.io/cv] | [latest release] |
+| [keremciu.github.io/cv] | [latest release] |
 
-[![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
+[![Build Status](https://travis-ci.org/keremciu/cv.svg?branch=gh-pages)](https://travis-ci.org/keremciu/cv)
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
