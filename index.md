@@ -110,10 +110,11 @@ _Front-end Developer_
 ## Links
 
 My old design portfolio
-https://www.slideshare.net/KeremSevencan/portfolio-61062213
+[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
 
 My sketch plugin
-https://github.com/keremciu/sketch-iconfont
+[sketch iconfont](https://github.com/keremciu/sketch-iconfont)
 
 FIFA Tournament generator (python)
-https://github.com/keremciu/fifa-tournament-generator
+[project repository](https://github.com/keremciu/fifa-tournament-generator)
+
