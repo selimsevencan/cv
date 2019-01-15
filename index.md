@@ -48,6 +48,7 @@ __Cardiff MET University, Graphic Communication__
 `Jan 2017 - now`
 __Adphorus__, Berlin  
 _Lead Front-end Developer_
+###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Helped team to improve their knowledge and solve their daily bases problems. 
 - Made internal presentations and wrote front-end dev specifications to scale the app. 
@@ -60,6 +61,7 @@ _Lead Front-end Developer_
 `May 2016 - Dec 2016`
 __PointrLabs__, London  
 _Lead Front-end Developer_
+###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs 
 
 - Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between front-end, iOS and android teams.
 - Built SPA which connects my middleware GraphQL server, inspired by kriasoft/react-starter-kit.
@@ -71,6 +73,7 @@ _Lead Front-end Developer_
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London  
 _Front-end Developer & Designer_
+###### Stack: React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
 - Helped product team for analyze, wireframe and design phases.
@@ -81,6 +84,7 @@ _Front-end Developer & Designer_
 `Apr 2014 - Oct 2014`
 __Online People__, London  
 _Front-end Developer & Designer_
+###### Stack: Angular1 / Cordova / Grunt / Sketch 
 
 - Built a hybrid web application from the ground up; transitioning it 
 from a facebook app into to cross-device app.
@@ -89,6 +93,7 @@ from a facebook app into to cross-device app.
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul  
 _Front-end Developer_
+###### Stack: jQuery / Core Javascript / CSS3 / Python / Django 
 
 - Implemented client-specialized design on top of our theme system on Django View Layer.
 - Developer jQuery components like slider, cart and check-out components.
@@ -96,6 +101,7 @@ _Front-end Developer_
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul  
 _Front-end Developer_
+###### Stack: jQuery / CSS / PHP / mysql / ASP
 
 - Implemented client-specialized design on table-based html template.
 - Developed login and cart components with jQuery AJAX on top of bad-structured html.
@@ -105,3 +111,9 @@ _Front-end Developer_
 
 My old design portfolio
 https://www.slideshare.net/KeremSevencan/portfolio-61062213
+
+My sketch plugin
+https://github.com/keremciu/sketch-iconfont
+
+FIFA Tournament generator (python)
+https://github.com/keremciu/fifa-tournament-generator
