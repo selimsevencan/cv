@@ -29,7 +29,7 @@ Based in Berlin, Germany. Working in marketing industry on building web based ap
 ### Specialized in
 
 - React/Redux ecosystem
-- Building scalable single page applications from stratch
+- Building scalable single page applications from scratch
 - Taking strategic decisions about front-end specifications
 - Building component library in design system projects
 
