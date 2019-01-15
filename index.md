@@ -39,7 +39,7 @@ __Cardiff MET University, Graphic Communication__
 ## Occupation
 
 `Jan 2017 - now`
-__Adphorus__, Berlin
+__Adphorus__, Berlin  
 _Lead Front-end Developer_
 
 - Helped team to improve their knowledge and solve their daily bases problems. 
@@ -51,7 +51,7 @@ _Lead Front-end Developer_
 
 
 `May 2016 - Dec 2016`
-__PointrLabs__, London
+__PointrLabs__, London  
 _Lead Front-end Developer_
 
 - Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between front-end, iOS and android teams.
@@ -62,7 +62,7 @@ _Lead Front-end Developer_
 
 
 `Sep 2014 - Oct 2016`
-__Asseco South Eastern Europe__, London
+__Asseco South Eastern Europe__, London  
 _Front-end Developer & Designer_
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
@@ -72,7 +72,7 @@ _Front-end Developer & Designer_
 
 
 `Apr 2014 - Oct 2014`
-__Online People__, London
+__Online People__, London  
 _Front-end Developer & Designer_
 
 - Built a hybrid web application from the ground up; transitioning it 
