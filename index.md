@@ -18,14 +18,6 @@ Front-end Developer
 - Open Source Contributor
 - Experienced as a Team Lead
 - Evangelist of Design Standarts
-- 
-
-- Really happy about 
-- Loves startups which have a passionate team
-- Knows Facebook Marketing
-- Involved into leading team
-- Into UI design, I studied design and always keeping up-to-date my design skills.
-- Into backend a bit, I worked with PHP, Python and nodejs a lot.
 
 ## Currently
 
@@ -36,9 +28,8 @@ Based in Berlin, Germany. Working in marketing industry on building web based ap
 
 - React/Redux ecosystem
 - Building scalable single page applications from stratch
-- 
-- Taking strategic decisions about front-end specifications.
-- Building component library in design system projects.
+- Taking strategic decisions about front-end specifications
+- Building component library in design system projects
 
 
 ## Education
