@@ -18,6 +18,8 @@ Front-end Developer
 - Open Source Contributor
 - Experienced as a Team Lead
 - Evangelist of Design Standarts
+- Knows Facebook Marketing
+- Loves side-projects
 
 ## Currently
 
