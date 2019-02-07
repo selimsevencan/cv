@@ -50,7 +50,7 @@ __Adphorus__, Berlin
 _Lead Front-end Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
-- Helped team to improve their knowledge and solve their daily bases problems. 
+- Helped team to improve their knowledge and solve their daily basis problems. 
 - Made internal presentations and wrote front-end dev specifications to scale the app. 
 - Worked closely with back-end and product team to build new and update existing features. 
 - Improve reusable component library, started style-guide project to build visual language. 
