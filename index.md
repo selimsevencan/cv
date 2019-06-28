@@ -18,12 +18,12 @@ Front-end Developer
 - Open Source Contributor
 - Experienced as a Team Lead
 - Evangelist of Design Standarts
-- Knows Facebook Marketing
+- Knows Facebook Marketing/Ad Tech Domain
 - Loves side-projects
 
 ## Currently
 
-Based in Berlin, Germany. Working in marketing industry on building web based applications.
+Based in Berlin, Germany. Working in digital marketing industry on building web based applications.
 
 
 ### Specialized in
@@ -31,7 +31,7 @@ Based in Berlin, Germany. Working in marketing industry on building web based ap
 - React/Redux ecosystem
 - Building scalable single page applications from scratch
 - Taking strategic decisions about front-end specifications
-- Building component library in design system projects
+- Building component libraries in design system projects
 
 
 ## Education
@@ -45,7 +45,7 @@ __Cardiff MET University, Graphic Communication__
 
 ## Occupation
 
-`Jan 2017 - now`
+`Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
 _Lead Front-end Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
@@ -53,9 +53,9 @@ _Lead Front-end Developer_
 - Helped team to improve their knowledge and solve their daily basis problems. 
 - Made internal presentations and wrote front-end dev specifications to scale the app. 
 - Worked closely with back-end and product team to build new and update existing features. 
-- Improve reusable component library, started style-guide project to build visual language. 
+- Improved reusable component library and started style-guide project top of that to build visual language. 
 
-🌟 Adphorus has been acquired by Sojern at December 2016.
+🌟 Adphorus has been acquired by Sojern at November 2017.
 
 
 `May 2016 - Dec 2016`
@@ -109,7 +109,7 @@ _Front-end Developer_
 
 ## Links
 
-My old design portfolio
+My -old- design portfolio
 [slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
 
 My sketch plugin
