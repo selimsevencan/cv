@@ -46,7 +46,7 @@ __Cardiff MET University, Graphic Communication__
 ## Occupation
 
 `Sep 2019 - Present`
-__Cobalt.io, Berlin  
+__Cobalt.io__, Berlin  
 _Front-end Developer_
 ###### Stack: React / styled-components / styled-system / webpack / circle-ci / docker 
 
