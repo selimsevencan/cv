@@ -45,6 +45,13 @@ __Cardiff MET University, Graphic Communication__
 
 ## Occupation
 
+`Sep 2019 - Present`
+__Cobalt.io, Berlin  
+_Front-end Developer_
+###### Stack: React / styled-components / styled-system / webpack / circle-ci / docker 
+
+- Working on React Component Library to be ready for company wide design system.
+
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
 _Lead Front-end Developer_
