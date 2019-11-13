@@ -6,8 +6,8 @@ title: Kerem Sevencan's CV
 # Kerem Sevencan
 Front-end Developer
 
-| __E-Mail__   | [info@kerem.ws](mailto:info@kerem.ws)                                    | 
-| __Website__  | [kerem.ws](https://kerem.ws)                                             |
+| __E-Mail__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
+| __Website__  | [keremciu.github.io](https://keremciu.github.io)                         |
 | __LinkedIn__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
 | __Twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
 
