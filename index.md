@@ -13,7 +13,7 @@ Front-end Developer
 
 ## TLDR;
 
-- 9+ years in software dev
+- 10+ years in software dev
 - React Enthusiast
 - Open Source Contributor
 - Experienced as a Team Lead
@@ -28,10 +28,10 @@ Based in Berlin, Germany. Working in digital marketing industry on building web 
 
 ### Specialized in
 
-- React/Redux ecosystem
+- React ecosystem
 - Building scalable single page applications from scratch
 - Taking strategic decisions about front-end specifications
-- Building component libraries in design system projects
+- Building component libraries inside design system projects
 
 
 ## Education
@@ -48,9 +48,14 @@ __Cardiff MET University, Graphic Communication__
 `Sep 2019 - Present`
 __Cobalt.io__, Berlin  
 _Front-end Developer_
-###### Stack: React / styled-components / styled-system / webpack / circle-ci / docker 
+###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
-- Working on React Component Library to be ready for company wide design system.
+- Mostly worked on automation and optimization features and reduced many manual work for pentest management process.
+- Built a component Library top of React and styled-system and applied into all the consumer applications.
+- Improved design implementation quality and helped other teams to make their projects aligned based on design.
+- Upgraded testing mocked fetch requests and contributed to fetch-mock library and implemented e2e tests by cypress.
+- Improved test quality by transitioning over from Enzyme to react-testing-library.
+- Created engineering initiatives to improve code quality and wrote documentation to make front-end engineers more aligned.
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
@@ -58,9 +63,10 @@ _Lead Front-end Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Helped team to improve their knowledge and solve their daily basis problems. 
-- Made internal presentations and wrote front-end dev specifications to scale the app. 
-- Worked closely with back-end and product team to build new and update existing features. 
-- Improved reusable component library and started style-guide project top of that to build visual language. 
+- Made internal presentations and wrote front-end dev specifications to make the app more scalable.
+- Worked closely with back-end and product team to build new and update existing features.
+- Had a chance to be part of the rebranding and worked closely with design to build visual language.
+- Improved reusable component library and started a style-guide project to make the platform more consistent.
 
 🌟 Adphorus has been acquired by Sojern at November 2017.
 
@@ -116,6 +122,9 @@ _Front-end Developer_
 
 ## Links
 
+My recent online game
+[BIG DECK](http://nahuman.herokuapp.com/)
+
 My -old- design portfolio
 [slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
 
@@ -124,6 +133,9 @@ My sketch plugin
 
 FIFA Tournament generator (python)
 [project repository](https://github.com/keremciu/fifa-tournament-generator)
+
+Retro Calculator
+[project demo](https://keremciu.github.io/retro-calculator/)
 
 Mini-Kanban
 [project repository](https://github.com/keremciu/mini-kanban)
