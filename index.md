@@ -123,14 +123,14 @@ _Front-end Developer_
 
 ## Links
 
-My recent online game
-[BIG DECK](http://nahuman.herokuapp.com/)
+Online party game
+[house of decks](http://houseofdecks.herokuapp.com/)
 
-My -old- design portfolio
-[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
-
-My sketch plugin
+Popular sketch plugin
 [sketch iconfont](https://github.com/keremciu/sketch-iconfont)
+
+-old- design portfolio
+[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
 
 FIFA Tournament generator (python)
 [project repository](https://github.com/keremciu/fifa-tournament-generator)
