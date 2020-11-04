@@ -18,20 +18,20 @@ Front-end Developer
 - Open Source Contributor
 - Experienced as a Team Lead
 - Evangelist of Design Standarts
-- Knows Facebook Marketing/Ad Tech Domain
+- Knows pentest/adtech/indoor location domains
 - Loves side-projects
 
 ## Currently
 
-Based in Berlin, Germany. Working in digital marketing industry on building web based applications.
+Based in Berlin, Germany. Working on a security platform to provide pentesting as a service.
 
 
 ### Specialized in
 
 - React ecosystem
-- Building scalable single page applications from scratch
-- Taking strategic decisions about front-end specifications
-- Building component libraries inside design system projects
+- Building scalable web applications from scratch
+- Taking strategic decisions on front-end architectures
+- Building component libraries to provide consistent and nice user experience
 
 
 ## Education
@@ -50,12 +50,13 @@ __Cobalt.io__, Berlin
 _Front-end Developer_
 ###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
-- Mostly worked on automation and optimization features and reduced many manual work for pentest management process.
-- Built a component Library top of React and styled-system and applied into all the consumer applications.
-- Improved design implementation quality and helped other teams to make their projects aligned based on design.
-- Upgraded testing mocked fetch requests and contributed to fetch-mock library and implemented e2e tests by cypress.
-- Improved test quality by transitioning over from Enzyme to react-testing-library.
-- Created engineering initiatives to improve code quality and wrote documentation to make front-end engineers more aligned.
+- Mostly worked on automation and optimization features to reduce manual work around pentest management process.
+- Built a component Library top of React with styled-system then applied into all the consumer applications.
+- Improved user experience of web applications while providing consistent and pixel-perfect user interface.
+- Improved mocking network layer by applying mock service worker(msw) and used it to improve tests and development.
+- Helped to land e2e infrastructure with Cypress and implemented critical tests.
+- Improved unit/integration test quality by transitioning over to react-testing library from enzyme.
+- Created many RFC/engineering initiatives to improve code quality(mostly code removal :) and wrote documentation to help others.
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
