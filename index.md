@@ -51,7 +51,7 @@ _Front-end Developer_
 ###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Mostly worked on automation and optimization features to reduce manual work around pentest management process.
-- Built a component Library top of React with styled-system then applied into all the consumer applications.
+- Built a component library with styled-system then applied that into all the consumer applications.
 - Improved user experience of web applications while providing consistent and pixel-perfect user interface.
 - Improved mocking network layer by applying mock service worker(msw) and used it to improve tests and development.
 - Helped to land e2e infrastructure with Cypress and implemented critical tests.
