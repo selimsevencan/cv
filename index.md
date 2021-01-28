@@ -45,7 +45,7 @@ __Superpeer__, Izmir
 _Software Developer_
 ###### Stack: Vue / Google Cloud / Firestore / Firebase / nodejs
 
-- Superpeer is the tool you need to have paid 1:1 video calls and livestreams with your audience and paid subscribers.
+- [Superpeer](https://superpeer.com/) is the tool you need to have paid 1:1 video calls and livestreams with your audience and paid subscribers.
 - The main product is a JavaScript-based single-page-application.
 - Implement the features' API architecture, and frontend implementation.
 
@@ -53,11 +53,11 @@ _Software Developer_
 `Jan 2020 - Jun 2020`
 __TheNews__, Istanbul  
 _Software Developer_
-###### Stack: React / React Native / App Store / Google Play / 
+###### Stack: React / React Native / App Store / Google Play
 
-- TheNews is a news app as you can read news from Hacker News, Dribbble, Tech Crunch, Github, Product Hunt, Reddit, and many more.
-- I planned and implemented all the engineering development processes and deployment to App Store and Google Play Store.
-- You can download and use it via the links below
+- [TheNews](https://thenews.im/) is a news app as you can read news from Hacker News, Dribbble, Tech Crunch, Github, Product Hunt, Reddit, and many more.
+- I planned and implemented all the engineering development processes for mobile and deployment to App Store and Google Play Store.
+- You can download and use it via the links below.
 
 
 `May 2017 - Mar 2020`
@@ -65,13 +65,13 @@ __Adphorus__, Istanbul
 _Front-end Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
-- Adphorus is an official Facebook & Instagram marketing partner and the main focus of Adphours is on the travel sector.
+- [Adphorus](https://www.sojern.com/) is an official Facebook & Instagram marketing partner and the main focus of Adphours is on the travel sector.
 - It has an AI-powered algorithm and also has many features for creating and managing the FB campaigns on its platform.
 - The main product is a JavaScript-based single-page-application.
 - The tech stack is React, Redux, Redux-Saga, Sass, and webpack on the front-end side.
 - The scrum methodology is used in the company.
 
-🌟 Adphorus has been acquired by Sojern in November 2017.
+🌟 Adphorus has been acquired by [Sojern](https://www.sojern.com/) in November 2017.
 
 
 `Jul 2016 - Feb 2017`
@@ -79,7 +79,7 @@ __PointrLabs__, Istanbul
 _Front-end Developer_
 ###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs 
 
-- PointrLabs is an indoor location data platform.
+- [PointrLabs](https://www.pointr.tech/) is an indoor location data platform.
 - Dashboard has a Client [React, Redux, GraphQL] and NodeJS Server [Express, Server-Side rendering with JSDOM,
 Background Data Caches].
 - NodeJS server is pulling data from pointr .NET API [MVC].
