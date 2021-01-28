@@ -7,7 +7,7 @@ title: Selim Sevencan's CV
 Front-end Developer
 
 | __E-Mail__   | [selimsevencan@gmail.com](mailto:selimm@gmail.com)| 
-| __Website__  | [selimsevencan.github.io](https://selimsevencan.github.io/cv/)|
+| __Website__  | [https://selimsevencan.github.io/cv](https://selimsevencan.github.io/cv/)|
 | __LinkedIn__ | [linkedin.com/in/selim-sevencan](https://linkedin.com/in/selim-sevencan)|
 | __Twitter__  | [twitter.com/svcnselim](https://twitter.com/svncnselim)|
 
