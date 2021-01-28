@@ -1,148 +1,92 @@
 ---
 layout: cv
-title: Kerem Sevencan's CV
+title: Selim Sevencan's CV
 ---
 
-# Kerem Sevencan
+# Selim Sevencan
 Front-end Developer
 
-| __E-Mail__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
-| __Website__  | [keremciu.github.io](https://keremciu.github.io)                         |
-| __LinkedIn__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
-| __Twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
+| __E-Mail__   | [selimsevencan@gmail.com](mailto:selimm@gmail.com)| 
+| __Website__  | [selimsevencan.github.io](https://selimsevencan.github.io)|
+| __LinkedIn__ | [linkedin.com/in/selim-sevencan](https://linkedin.com/in/selim-sevencan)|
+| __Twitter__  | [twitter.com/svcnselim](https://twitter.com/svcnselim)|
 
 ## TLDR;
 
-- 10+ years in software dev
-- React Enthusiast
-- Open Source Contributor
-- Experienced as a Team Lead
-- Evangelist of Design Standarts
-- Knows pentest/adtech/indoor location domains
+- 5+ years in software dev
+- React Fan
+- Knows video-call/adtech/indoor location domains
 - Loves side-projects
 
 ## Currently
 
-Based in Berlin, Germany. Working on a security platform to provide pentesting as a service.
+Based in Izmir, Turkey. Currently working on a monetization tool for the best minds providing a platform for paid 1:1 video calls and livestreams.
 
 
 ### Specialized in
 
 - React ecosystem
 - Building scalable web applications from scratch
-- Taking strategic decisions on front-end architectures
+- Taking strategic decisions on front-end
 - Building component libraries to provide consistent and nice user experience
 
 
 ## Education
 
 `2011-2016`
-__Maltepe University, Visual Communication Design__
-
-`2013-2015`
-__Cardiff MET University, Graphic Communication__
+__Yeditepe University, International Logistics and Transporation__
 
 
 ## Occupation
 
-`Sep 2019 - Present`
-__Cobalt.io__, Berlin  
+
+`Apr 2020 - Present`
+__Superpeer__, Izmir  
+_Software Developer_
+###### Stack: Vue / Google Cloud / Firestore / Firebase / nodejs
+
+- Superpeer is the tools you need to have paid 1:1 video calls and livestreams with your audience and paid subscribers.
+- The main product is a JavaScript-based single-page-application.
+- Implement the features' API architure, and frontend implementation.
+
+
+`May 2017 - Mar 2020`
+__Adphorus__, Istanbul  
 _Front-end Developer_
-###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
-
-- Mostly worked on automation and optimization features to reduce manual work around pentest management process.
-- Built a component library with styled-system then applied that into all the consumer applications.
-- Improved user experience of web applications while providing consistent and pixel-perfect user interface.
-- Improved mocking network layer by applying mock service worker(msw) and used it to improve tests and development.
-- Helped to land e2e infrastructure with Cypress and implemented critical tests.
-- Improved unit/integration test quality by transitioning over to react-testing library from enzyme.
-- Created many RFC/engineering initiatives to improve code quality(mostly code removal :) and wrote documentation to help others.
-
-`Jan 2017 - Mar 2019`
-__Adphorus__, Berlin  
-_Lead Front-end Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
-- Helped team to improve their knowledge and solve their daily basis problems. 
-- Made internal presentations and wrote front-end dev specifications to make the app more scalable.
-- Worked closely with back-end and product team to build new and update existing features.
-- Had a chance to be part of the rebranding and worked closely with design to build visual language.
-- Improved reusable component library and started a style-guide project to make the platform more consistent.
+- Adphorus is an official Facebook & Instagram marketing partner and the main focus of Adphours is on the travel sector.
+- It has an AI-powered algorithm and also has many features for creating and managing the FB campaigns on its platform.
+- The main product is a JavaScript-based single-page-application.
+- The tech stack is React, Redux, Redux-Saga, Sass, and webpack on the front-end side.
+- The scrum methodology is used on the company.
 
 🌟 Adphorus has been acquired by Sojern at November 2017.
 
 
-`May 2016 - Dec 2016`
-__PointrLabs__, London  
-_Lead Front-end Developer_
+`Jul 2016 - Feb 2017`
+__PointrLabs__, Istanbul  
+_Front-end Developer_
 ###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs 
 
-- Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between front-end, iOS and android teams.
-- Built SPA which connects my middleware GraphQL server, inspired by kriasoft/react-starter-kit.
-- Made internal presentations about GraphQL and Redux.
-- Built responsive website with completely new UI and functionality.
-- Built a mini Application Manager for clients to access their apps with passwords with GulpJS.
+- PointrLabs is indoor location data platform.
+- Dashboard has a Client [React, Redux, GraphQL] and NodeJS Server [Express, Server-Side rendering with JSDOM,
+Background Data Caches].
+- NodeJS server is pulling data from pointr .NET API [MVC].
+- On above stack; I'm creating a new page and improving the old pages on the dashboard.
+- The previous dashboard was on .NET project. Some pages of the previous dashboard took 20 seconds.
+- New dashboard changed the loading time from 20 seconds to 300 milliseconds.
 
-
-`Sep 2014 - Oct 2016`
-__Asseco South Eastern Europe__, London  
-_Front-end Developer & Designer_
-###### Stack: React / Angular1 / GulpJS / Sketch 
-
-- Built iPad and mobile applications with Angular1/React and Cordova.
-- Helped product team for analyze, wireframe and design phases.
-- Made interfaces with GulpJS for internal tools.
-- Acted as a technical-lead in the team, joined many client meetings.
-
-
-`Apr 2014 - Oct 2014`
-__Online People__, London  
-_Front-end Developer & Designer_
-###### Stack: Angular1 / Cordova / Grunt / Sketch 
-
-- Built a hybrid web application from the ground up; transitioning it 
-from a facebook app into to cross-device app.
-- Designed all assets of the application and company.
-
-`Oct 2010 - Dec 2012` 
-__YCEO__, Istanbul  
-_Front-end Developer_
-###### Stack: jQuery / Core Javascript / CSS3 / Python / Django 
-
-- Implemented client-specialized design on top of our theme system on Django View Layer.
-- Developer jQuery components like slider, cart and check-out components.
-
-
-`Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul  
-_Front-end Developer_
-###### Stack: jQuery / CSS / PHP / mysql / ASP
-
-- Implemented client-specialized design on table-based html template.
-- Developed login and cart components with jQuery AJAX on top of bad-structured html.
-- Developed a facebook application which provides our clients to show their products on their facebook page.
 
 ## Links
 
-Online party game
-[house of decks](http://houseofdecks.herokuapp.com/)
+motivation story
+[story](https://gist.github.com/selimsevencan/2b3e1cacbf392b307f6040116e7b563c)
 
-Popular sketch plugin
-[sketch iconfont](https://github.com/keremciu/sketch-iconfont)
+image seacrh
+[image search](https://powerful-manager.surge.sh/)
 
--old- design portfolio
-[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
-
-FIFA Tournament generator (python)
-[project repository](https://github.com/keremciu/fifa-tournament-generator)
-
-Retro Calculator
-[project demo](https://keremciu.github.io/retro-calculator/)
-
-Mini-Kanban
-[project repository](https://github.com/keremciu/mini-kanban)
-
-
-
-
+last character of the word game
+[game](https://perfect-angle.surge.sh/)
 
 

@@ -1,13 +1,13 @@
-[keremciu.github.io/cv]: https://keremciu.github.io/cv
-[latest release]: https://github.com/keremciu/cv/releases/latest
+[selimsevencan.github.io/cv]: https://selimsevencan.github.io/cv
+[latest release]: https://github.com/selimsevencan/cv/releases/latest
 
-# Source of Kerem Sevencan's CV
+# Source of Selim Sevencan's CV
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
-| [keremciu.github.io/cv] | [latest release] |
+| [selimsevencan.github.io/cv] | [latest release] |
 
-[![Build Status](https://travis-ci.org/keremciu/cv.svg?branch=gh-pages)](https://travis-ci.org/keremciu/cv)
+[![Build Status](https://travis-ci.org/selimsevencan/cv.svg?branch=gh-pages)](https://travis-ci.org/selimsevencan/cv)
 
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
