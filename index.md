@@ -7,15 +7,15 @@ title: Selim Sevencan's CV
 Front-end Developer
 
 | __E-Mail__   | [selimsevencan@gmail.com](mailto:selimm@gmail.com)| 
-| __Website__  | [selimsevencan.github.io](https://selimsevencan.github.io)|
+| __Website__  | [selimsevencan.github.io](https://selimsevencan.github.io/cv/)|
 | __LinkedIn__ | [linkedin.com/in/selim-sevencan](https://linkedin.com/in/selim-sevencan)|
-| __Twitter__  | [twitter.com/svcnselim](https://twitter.com/svcnselim)|
+| __Twitter__  | [twitter.com/svcnselim](https://twitter.com/svncnselim)|
 
 
 ## TLDR;
 
 - 5+ years in software dev
-- React Fan
+- React fan
 - Knows video-call/adtech/indoor location domains
 - Loves side-projects
 
@@ -94,11 +94,11 @@ TheNews
 [App Store](https://apps.apple.com/us/app/thenews-im/id1500140525)
 [Google Play](https://play.google.com/store/apps/details?id=com.thenewsmobile)
 
-motivation story
+motivation
 [story](https://gist.github.com/selimsevencan/2b3e1cacbf392b307f6040116e7b563c)
 
-image search
+image 
 [image search](https://powerful-manager.surge.sh/)
 
-last character of the word game
+the word
 [game](https://perfect-angle.surge.sh/)
